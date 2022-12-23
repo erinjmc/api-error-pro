@@ -1,0 +1,2168 @@
+[
+    {
+        "code": "-1",
+        "desc": "Unknown error",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "0",
+        "desc": "No error",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1",
+        "desc": "User canceled action",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "2",
+        "desc": "Memory error",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "3",
+        "desc": "Command is unavailable (for example wrong operating system wrong mode etc.)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "4",
+        "desc": "Command is unknown",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "5",
+        "desc": "Command is invalid (for example a Set Field script step does not have a calculation specified)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "6",
+        "desc": "File is read-only",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "7",
+        "desc": "Running out of memory",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "8",
+        "desc": "Empty result",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "9",
+        "desc": "Insufficient privileges",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "10",
+        "desc": "Requested data is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "11",
+        "desc": "Name is not valid",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "12",
+        "desc": "Name already exists",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "13",
+        "desc": "File or object is in use",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "14",
+        "desc": "Out of range",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "15",
+        "desc": "Can’t divide by zero",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "16",
+        "desc": "Operation failed request retry (for example a user query)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "17",
+        "desc": "Attempt to convert foreign character set to UTF-16 failed",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "18",
+        "desc": "Client must provide account information to proceed",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "19",
+        "desc": "String contains characters other than A-Z a-z 0-9 (ASCII)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "20",
+        "desc": "Command / operation cancelled by triggered script",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "100",
+        "desc": "File is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "101",
+        "desc": "Record is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "102",
+        "desc": "Field is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "103",
+        "desc": "Relationship is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "104",
+        "desc": "Script is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "105",
+        "desc": "Layout is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "106",
+        "desc": "Table is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "107",
+        "desc": "Index is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "108",
+        "desc": "Value list is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "109",
+        "desc": "Privilege set is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "110",
+        "desc": "Related tables are missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "111",
+        "desc": "Field repetition is invalid",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "112",
+        "desc": "Window is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "113",
+        "desc": "Function is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "114",
+        "desc": "File reference is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "115",
+        "desc": "Specified menu set is not present",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "116",
+        "desc": "Specified layout object is not present",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "117",
+        "desc": "Specified data source is not present",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "130",
+        "desc": "Files are damaged or missing and must be reinstalled",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "131",
+        "desc": "Language pack files are missing (such as template files)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "200",
+        "desc": "Record access is denied",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "201",
+        "desc": "Field cannot be modified",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "202",
+        "desc": "Field access is denied",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "203",
+        "desc": "No records in file to print or password doesn’t allow print access",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "204",
+        "desc": "No access to field(s) in sort order",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "205",
+        "desc": "User does not have access privileges to create new records; import will overwrite existing data",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "206",
+        "desc": "User does not have password change privileges or file is not modifiable",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "207",
+        "desc": "User does not have sufficient privileges to change database schema or file is not modifiable",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "208",
+        "desc": "Password does not contain enough characters",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "209",
+        "desc": "New password must be different from existing one",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "210",
+        "desc": "User account is inactive",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "211",
+        "desc": "Password has expired",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "212",
+        "desc": "Invalid user account and/or password. Please try again",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "213",
+        "desc": "User account and/or password does not exist",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "214",
+        "desc": "Too many login attempts",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "215",
+        "desc": "Administrator privileges cannot be duplicated",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "216",
+        "desc": "Guest account cannot be duplicated",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "217",
+        "desc": "User does not have sufficient privileges to modify administrator account",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "300",
+        "desc": "File is locked or in use",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "301",
+        "desc": "Record is in use by another user",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "302",
+        "desc": "Table is in use by another user",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "303",
+        "desc": "Database schema is in use by another user",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "304",
+        "desc": "Layout is in use by another user",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "306",
+        "desc": "Record modification ID does not match",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "400",
+        "desc": "Find criteria are empty",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "401",
+        "desc": "No records match the request",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "402",
+        "desc": "Selected field is not a match field for a lookup",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "403",
+        "desc": "Exceeding maximum record limit for trial version of FileMaker Pro",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "404",
+        "desc": "Sort order is invalid",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "405",
+        "desc": "Number of records specified exceeds number of records that can be omitted",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "406",
+        "desc": "Replace/Reserialize criteria are invalid",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "407",
+        "desc": "One or both match fields are missing (invalid relationship)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "408",
+        "desc": "Specified field has inappropriate data type for this operation",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "409",
+        "desc": "Import order is invalid",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "410",
+        "desc": "Export order is invalid",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "412",
+        "desc": "Wrong version of FileMaker Pro used to recover file",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "413",
+        "desc": "Specified field has inappropriate field type",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "414",
+        "desc": "Layout cannot display the result",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "415",
+        "desc": "One or more required related records are not available",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "416",
+        "desc": "Primary key required from data source table",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "417",
+        "desc": "Database is not supported for ODBC operations",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "500",
+        "desc": "Date value does not meet validation entry options",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "501",
+        "desc": "Time value does not meet validation entry options",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "502",
+        "desc": "Number value does not meet validation entry options",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "503",
+        "desc": "Value in field is not within the range specified in validation entry options",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "504",
+        "desc": "Value in field is not unique as required in validation entry options",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "505",
+        "desc": "Value in field is not an existing value in the database file as required in validation entry options",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "506",
+        "desc": "Value in field is not listed on the value list specified in validation entry option",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "507",
+        "desc": "Value in field failed calculation test of validation entry option",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "508",
+        "desc": "Invalid value entered in Find mode",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "509",
+        "desc": "Field requires a valid value",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "510",
+        "desc": "Related value is empty or unavailable",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "511",
+        "desc": "Value in field exceeds maximum number of allowed characters",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "512",
+        "desc": "Record was already modified by another user",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "513",
+        "desc": "Record must have a value in some field to be created",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "600",
+        "desc": "Print error has occurred",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "601",
+        "desc": "Combined header and footer exceed one page",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "602",
+        "desc": "Body doesn’t fit on a page for current column setup",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "603",
+        "desc": "Print connection lost",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "700",
+        "desc": "File is of the wrong file type for import",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "706",
+        "desc": "EPSF file has no preview image",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "707",
+        "desc": "Graphic translator cannot be found",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "708",
+        "desc": "Can’t import the file or need color monitor support to import file",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "709",
+        "desc": "QuickTime movie import failed",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "710",
+        "desc": "Unable to update QuickTime file reference because the database file is read-only",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "711",
+        "desc": "Import translator cannot be found",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "714",
+        "desc": "Password privileges do not allow the operation",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "715",
+        "desc": "Specified Excel worksheet or named range is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "716",
+        "desc": "A SQL query using DELETE INSERT or UPDATE is not allowed for ODBC import",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "717",
+        "desc": "There is not enough XML/XSL information to proceed with the import or export",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "718",
+        "desc": "Error in parsing XML file (from Xerces)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "719",
+        "desc": "Error in transforming XML using XSL (from Xalan)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "720",
+        "desc": "Error when exporting; intended format does not support repeating fields",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "721",
+        "desc": "Unknown error occurred in the parser or the transformer",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "722",
+        "desc": "Cannot import data into a file that has no fields",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "723",
+        "desc": "You do not have permission to add records to or modify records in the target table",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "724",
+        "desc": "You do not have permission to add records to the target table",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "725",
+        "desc": "You do not have permission to modify records in the target table",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "726",
+        "desc": "There are more records in the import file than in the target table. Not all records were imported",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "727",
+        "desc": "There are more records in the target table than in the import file. Not all records were updated",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "729",
+        "desc": "Errors occurred during import. Records could not be imported",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "730",
+        "desc": "Unsupported Excel version. (Convert file to Excel 7.0 (Excel 95) Excel 97 2000 or XP format and try again)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "731",
+        "desc": "The file you are importing from contains no data",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "732",
+        "desc": "This file cannot be inserted because it contains other files",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "733",
+        "desc": "A table cannot be imported into itself",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "734",
+        "desc": "This file type cannot be displayed as a picture",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "735",
+        "desc": "This file type cannot be displayed as a picture. It will be inserted and displayed as a file",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "736",
+        "desc": "Too much data to export to this format.It will be truncated",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "737",
+        "desc": "Bento table is reported as missed when trying to import it",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "800",
+        "desc": "Unable to create file on disk",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "801",
+        "desc": "Unable to create temporary file on System disk",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "802",
+        "desc": "Unable to open file",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "803",
+        "desc": "File is single user or host cannot be found",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "804",
+        "desc": "File cannot be opened as read-only in its current state",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "805",
+        "desc": "File is damaged; use Recover command",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "806",
+        "desc": "File cannot be opened with this version of FileMaker Pro",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "807",
+        "desc": "File is not a FileMaker Pro file or is severely damaged",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "808",
+        "desc": "Cannot open file because access privileges are damaged",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "809",
+        "desc": "Disk/volume is full",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "810",
+        "desc": "Disk/volume is locked",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "811",
+        "desc": "Temporary file cannot be opened as FileMaker Pro file",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "813",
+        "desc": "Record Synchronization error on network",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "814",
+        "desc": "File(s) cannot be opened because maximum number is open",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "815",
+        "desc": "Couldn’t open lookup file",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "816",
+        "desc": "Unable to convert file",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "817",
+        "desc": "Unable to open file because it does not belong to this solution",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "819",
+        "desc": "Cannot save a local copy of a remote file",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "820",
+        "desc": "File is in the process of being closed",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "821",
+        "desc": "Host forced a disconnect",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "822",
+        "desc": "FMI files not found; reinstall missing files",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "823",
+        "desc": "Cannot set file to single-user guests are connected",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "824",
+        "desc": "File is damaged or not a FileMaker file",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "825",
+        "desc": "File is not authorized to reference the protected file",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "900",
+        "desc": "General spelling engine error",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "901",
+        "desc": "Main spelling dictionary not installed",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "902",
+        "desc": "Could not launch the Help system",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "903",
+        "desc": "Command cannot be used in a shared file",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "904",
+        "desc": "Command can only be used in a file hosted under FileMaker Server",
+        "platform": "WPE",
+        "solution": ""
+    },
+    {
+        "code": "905",
+        "desc": "No active field selected; command can only be used if there is an active field",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "906",
+        "desc": "Current file must be shared in order to use the command",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "920",
+        "desc": "Can’t initialize the spelling engine",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "921",
+        "desc": "User dictionary cannot be loaded for editing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "922",
+        "desc": "User dictionary cannot be found",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "923",
+        "desc": "User dictionary is read-only",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "951",
+        "desc": "An unexpected error occurred",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "954",
+        "desc": "Unsupported XML grammar",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "955",
+        "desc": "No database name",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "956",
+        "desc": "Maximum number of database sessions exceeded",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "957",
+        "desc": "Conflicting commands",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "958",
+        "desc": "Parameter missing in query",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1200",
+        "desc": "Generic calculation error",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1201",
+        "desc": "Too few parameters in the function",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1202",
+        "desc": "Too many parameters in the function",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1203",
+        "desc": "Unexpected end of calculation",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1204",
+        "desc": "Number text constant field name or “(“ expected",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1205",
+        "desc": "Comment is not terminated with */",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1206",
+        "desc": "Text constant must end with a quotation mark",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1207",
+        "desc": "Unbalanced parenthesis",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1208",
+        "desc": "Operator missing function not found or “(“ not expected",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1209",
+        "desc": "Name (such as field name or layout name) is missing",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1210",
+        "desc": "Plug-in function has already been registered",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1211",
+        "desc": "List usage is not allowed in this function",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1212",
+        "desc": "An operator (for example + - *) is expected here",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1213",
+        "desc": "This variable has already been defined in the Let function",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1214",
+        "desc": "AVERAGE COUNT EXTEND GETREPETITION MAX MIN NPV STDEV SUM and GETSUMMARY: expression found where a field alone is needed",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1215",
+        "desc": "This parameter is an invalid Get function parameter",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1216",
+        "desc": "Only Summary fields allowed as first argument in GETSUMMARY",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1217",
+        "desc": "Break field is invalid",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1218",
+        "desc": "Cannot evaluate the number",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1219",
+        "desc": "A field cannot be used in its own formula",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1220",
+        "desc": "Field type must be normal or calculated",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1221",
+        "desc": "Data type must be number date time or timestamp",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1222",
+        "desc": "Calculation cannot be stored",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1223",
+        "desc": "The function referred to does not exist",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1224",
+        "desc": "The function is not defined",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "1225",
+        "desc": "The function is not supported in this context",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "1300",
+        "desc": "The specified name can't be used",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "1400",
+        "desc": "ODBC client driver initialization failed; make sure the ODBC client drivers are properly installed. Note -The plug-in component for sharing data via ODBC is installed automatically with FileMaker Server; the ODBC client drivers are installed using the FileMaker Server Web Publishing CD. For information see Installing FileMaker ODBC and JDBC Client Drivers.",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1401",
+        "desc": "Failed to allocate environment (ODBC)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1402",
+        "desc": "Failed to free environment (ODBC)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1403",
+        "desc": "Failed to disconnect (ODBC)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1404",
+        "desc": "Failed to allocate connection (ODBC)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1405",
+        "desc": "Failed to free connection (ODBC)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1406",
+        "desc": "Failed check for SQL API (ODBC)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1407",
+        "desc": "Failed to allocate statement (ODBC)",
+        "platform": "Pro / WPE",
+        "solution": ""
+    },
+    {
+        "code": "1408",
+        "desc": "Extended error (ODBC)",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "1409",
+        "desc": "Error (ODBC)",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "1413",
+        "desc": "Failed communication link (ODBC)",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "1450",
+        "desc": "Action requires PHP privilege extension (*)",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "1451",
+        "desc": "Action requires that current file be remote",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "1501",
+        "desc": "The authentication Failed",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "1502",
+        "desc": "The connection was refused by the SMTP server",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "1503",
+        "desc": "There was an error with SSL",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "1504",
+        "desc": "The server required the connection to be encrypted",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "1505",
+        "desc": "The specified authentication is not supported by the SMTP server",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "1506",
+        "desc": "Email(s) could not be sent successfully",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "1507",
+        "desc": "Unable to login into the SMTP Server",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "2046",
+        "desc": "This command or action cannot be performed because that functionality is no longer supported",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "2047",
+        "desc": "Bento 2 (or later) is not presented on the system",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "2048",
+        "desc": "The selected work book is no Excel 2007 / 2008 format",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "3000",
+        "desc": "Action never occurred because script was triggered",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "8404",
+        "desc": "An installed OnTimer script could not be found or could not be run with current access privileges",
+        "platform": "Pro",
+        "solution": ""
+    },
+    {
+        "code": "101",
+        "desc": "The server is unable to connect",
+        "platform": "SMTP",
+        "solution": "Try to change the server’s name (maybe it was spelt incorrectly) or the connection port."
+    },
+    {
+        "code": "111",
+        "desc": "Connection refused or inability to open an SMTP stream",
+        "platform": "SMTP",
+        "solution": "This error normally refers to a connection issue with the remote SMTP server depending on firewalls or misspelled domainsDouble-check all the configurations and in case ask your provider."
+    },
+    {
+        "code": "211",
+        "desc": "System status message or help reply",
+        "platform": "SMTP",
+        "solution": "It comes with more information about the server."
+    },
+    {
+        "code": "214",
+        "desc": "A response to the HELP command",
+        "platform": "SMTP",
+        "solution": "It contains information about your particular server normally pointing to a FAQ page."
+    },
+    {
+        "code": "220",
+        "desc": "The server is ready",
+        "platform": "SMTP",
+        "solution": "It’s just a welcome message Just read it and be happy that everything is working (so far)!"
+    },
+    {
+        "code": "221",
+        "desc": "The server is closing its transmission channel",
+        "platform": "SMTP",
+        "solution": "It can come with side messages like “Goodbye” or “Closing connection”.The mailing session is going to end which simply means that all messages have been processed."
+    },
+    {
+        "code": "250",
+        "desc": "Its typical side message is “Requested mail action okay completed”: meaning that the server has transmitted a message",
+        "platform": "SMTP",
+        "solution": "The oppsite of an error: everything has worked and your email has been delivered."
+    },
+    {
+        "code": "251",
+        "desc": "“User not local will forward”: the recipient’s account is not on the present server so it will be relayed to another",
+        "platform": "SMTP",
+        "solution": " It’s a normal transfer actionFor other information check out our article on what is an SMTP server."
+    },
+    {
+        "code": "252",
+        "desc": "The server cannot verify the user but it will try to deliver the message anyway",
+        "platform": "SMTP",
+        "solution": "The recipient’s email account is valid but not verifiable. Normally the server relays the message to another one that will be able to check it."
+    },
+    {
+        "code": "354",
+        "desc": "The side message can be very cryptic (“Start mail input end <CRLF>.<CRLF>”)",
+        "platform": "SMTP",
+        "solution": "It’s the typical response to the DATA command. The server has received the “From” and “To” details of the email and is ready to get the body message."
+    },
+    {
+        "code": "420",
+        "desc": "“Timeout connection problem”: there have been issues during the message transfer",
+        "platform": "SMTP",
+        "solution": "This error message is produced only by GroupWise servers. Either your email has been blocked by the recipient’s firewall or there’s a hardware problem."
+    },
+    {
+        "code": "421",
+        "desc": "The service is unavailable due to a connection problem: it may refer to an exceeded limit of simultaneous connections or a more general temporary problem.",
+        "platform": "SMTP",
+        "solution": "The server (yours or the recipient’s) is not available at the moment so the dispatch will be tried again later."
+    },
+    {
+        "code": "422",
+        "desc": "The recipient’s mailbox has exceeded its storage limit",
+        "platform": "SMTP",
+        "solution": "Best is to contact contact the user via another channel to alert him and ask to create some free room in his mailbox."
+    },
+    {
+        "code": "431",
+        "desc": "Not enough space on the disk or an “out of memory” condition due to a file overload",
+        "platform": "SMTP",
+        "solution": "This error may depend on too many messages sent to a particular domain. You should try again sending smaller sets of emails instead of one big mail-out."
+    },
+    {
+        "code": "432",
+        "desc": "Typical side-message: “The recipient’s Exchange Server incoming mail queue has been stopped”",
+        "platform": "SMTP",
+        "solution": "It’s a Microsoft Exchange Server’s SMTP error code.You should contact it to get more information: generally it’s due to a connection problem."
+    },
+    {
+        "code": "441",
+        "desc": "The recipient’s server is not responding",
+        "platform": "SMTP",
+        "solution": "There’s an issue with the user’s incoming server: yours will try again to contact it."
+    },
+    {
+        "code": "442",
+        "desc": "The connection was dropped during the transmission",
+        "platform": "SMTP",
+        "solution": "A typical network connection problem probably due to your router: check it immediately."
+    },
+    {
+        "code": "446",
+        "desc": "The maximum hop count was exceeded for the message: an internal loop has occurred",
+        "platform": "SMTP",
+        "solution": "Ask your SMTP provider to verify what has happened."
+    },
+    {
+        "code": "447",
+        "desc": "Your outgoing message timed out because of issues concerning the incoming server",
+        "platform": "SMTP",
+        "solution": "This happens generally when you exceeded your server’s limit of number of recipients for a message.Try to send it again segmenting the list in different parts."
+    },
+    {
+        "code": "449",
+        "desc": "A routing error. Like error 432 it’s related only to Microsoft Exchange",
+        "platform": "SMTP",
+        "solution": "Use WinRoute."
+    },
+    {
+        "code": "450",
+        "desc": "“Requested action not taken – The user’s mailbox is unavailable”",
+        "platform": "SMTP",
+        "solution": "The mailbox has been corrupted or placed on an offline server or your email hasn’t been accepted for IP problems or blacklisting.The server will retry to mail the message again after some time. Verify that is working on a reliable IP address."
+    },
+    {
+        "code": "451",
+        "desc": "“Requested action aborted – Local error in processing”",
+        "platform": "SMTP",
+        "solution": "Your ISP’s server or the server that got a first relay from yours has encountered a connection problem. It’s normally a transient error due to a message overload but it can refer also to a rejection due to a remote antispam filter. If it keeps repeating ask your SMTP provider to check the situation (If you’re sending a large bulk email with a free one that can be a common issue)."
+    },
+    {
+        "code": "452",
+        "desc": "Too many emails sent or too many recipients: more in general",
+        "platform": "SMTP",
+        "solution": " a server storage limit exceeded. The typical cause is a message overload. sually the next try will succeed: in case of problems on your server it will come with a side-message like “Out of memory”."
+    },
+    {
+        "code": "471",
+        "desc": "An error of your mail server",
+        "platform": "SMTP",
+        "solution": " often due to an issue of the local anti-spam filter. Contact your SMTP service provider to fix the situation."
+    },
+    {
+        "code": "500",
+        "desc": "A syntax error: the server couldn’t recognize the command",
+        "platform": "SMTP",
+        "solution": "It may be caused by a bad interaction of the server with your firewall or antivirus. Read carefully their instructions to solve it."
+    },
+    {
+        "code": "501",
+        "desc": "Another syntax error",
+        "platform": "SMTP",
+        "solution": " not in the command but in its parameters or arguments. In the majority of the times it’s due to an invalid email address but it can also be associated with connection problems (and again an issue concerning your antivirus settings)."
+    },
+    {
+        "code": "502",
+        "desc": "The command is not implemented",
+        "platform": "SMTP",
+        "solution": "The command has not been activated yet on your own server. Contact your provider to know more about it."
+    },
+    {
+        "code": "503",
+        "desc": "The server has encountered a bad sequence of commands",
+        "platform": "SMTP",
+        "solution": " or it requires an authentication. In case of “bad sequence” the server has pulled off its commands in a wrong order usually because of a broken connection. If an authentication is needed you should enter your username and password."
+    },
+    {
+        "code": "504",
+        "desc": "A command parameter is not implemented",
+        "platform": "SMTP",
+        "solution": "Like error 501 is a syntax problem; you should ask your provider."
+    },
+    {
+        "code": "510",
+        "desc": "Bad email address",
+        "platform": "SMTP",
+        "solution": "One of the addresses in your TO CC or BBC line doesn’t exist. Check again your recipients’ accounts and correct any possible misspelling."
+    },
+    {
+        "code": "511",
+        "desc": "Bad email address",
+        "platform": "SMTP",
+        "solution": "One of the addresses in your TO CC or BBC line doesn’t exist.Check again your recipients’ accounts and correct any possible misspelling."
+    },
+    {
+        "code": "512",
+        "desc": "DNS error: the host server for the recipient’s domain name cannot be found",
+        "platform": "SMTP",
+        "solution": "Check again all your recipients’ addresses: there will likely be an error in a domain name (like mail@domain.coom instead of mail@domain.com)."
+    },
+    {
+        "code": "513",
+        "desc": "“Address type is incorrect”: another problem concerning address misspelling",
+        "platform": "SMTP",
+        "solution": "In few cases it’s related to an authentication issue. Doublecheck your recipients’ addresses and correct any mistake. If everything’s ok and the error persists then it’s caused by a configuration issue (simply the server needs an authentication)."
+    },
+    {
+        "code": "523",
+        "desc": "The total size of your mailing exceeds the recipient server’s limits",
+        "platform": "SMTP",
+        "solution": "Re-send your message splitting the list in smaller subsets."
+    },
+    {
+        "code": "530",
+        "desc": "Normally an authentication problem. But sometimes it’s about the recipient’s server blacklisting yours or an invalid email address",
+        "platform": "SMTP",
+        "solution": "Configure your settings providing a username+password authentication. If the error persists check all your recipients’ addresses and if you’ve been blacklisted."
+    },
+    {
+        "code": "541",
+        "desc": "The recipient address rejected your message: normally it’s an error caused by an anti-spam filter",
+        "platform": "SMTP",
+        "solution": "Your message has been detected and labeled as spam. You must ask the recipient to whitelist you."
+    },
+    {
+        "code": "550",
+        "desc": "It usually defines a non-existent email address on the remote side.Though it can be returned also by the recipient’s firewall (or when the incoming server is down)",
+        "platform": "SMTP",
+        "solution": " the great majority of errors 550 simply tell that the recipient email address doesn’t exist. You should contact the recipient otherwise and get the right address."
+    },
+    {
+        "code": "551",
+        "desc": "“User not local or invalid address – Relay denied” Meaning if both your address and the recipient’s are not locally hosted by the server a relay can be interrupted",
+        "platform": "SMTP",
+        "solution": "It’s a (not very clever) strategy to prevent spamming. You should contact your ISP and ask them to allow you as a certified sender."
+    },
+    {
+        "code": "552",
+        "desc": "“Requested mail actions aborted – Exceeded storage allocation”: simply put the recipient’s mailbox has exceeded its limits",
+        "platform": "SMTP",
+        "solution": "Try to send a lighter message: that usually happens when you dispatch emails with big attachments so check them first."
+    },
+    {
+        "code": "553",
+        "desc": "“Requested action not taken – Mailbox name invalid”. That is there’s an incorrect email address into the recipients line",
+        "platform": "SMTP",
+        "solution": "Check all the addresses in the TO CC and BCC field. There should be an error or a misspelling somewhere."
+    },
+    {
+        "code": "554",
+        "desc": "This means that the transaction has failed",
+        "platform": "SMTP",
+        "solution": "It’s a permanent error and the server will not try to send the message again.The incoming server thinks that your email is spam or your IP has been blacklisted. Check carefully if you ended up in some spam lists or rely on a professional SMTP service like turboSMTP that will nullify this problem."
+    },
+    {
+        "code": "100",
+        "desc": "Continue. The server has received the request headers and the client should proceed to send the request body (in the case of a request for which a body needs to be sent; for example a POST request). Sending a large request body to a server after a request has been rejected for inappropriate headers would be inefficient. To have a server check the request's headers a client must send Expect: 100-continue as a header in its initial request and receive a 100 Continue status code in response before sending the body. If the client receives an error code such as 403 (Forbidden) or 405 (Method Not Allowed) then it shouldn't send the request's body. The response 417 Expectation Failed indicates that the request should be repeated without the Expect header as it indicates that the server doesn't support expectations (this is the case for example of HTTP/1.0 servers)",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "101",
+        "desc": "Switching Protocols.The requester has asked the server to switch protocols and the server has agreed to do so.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "102",
+        "desc": "Processing (WebDAV; RFC 2518). A WebDAV request may contain many sub-requests involving file operations requiring a long time to complete the request. This code indicates that the server has received and is processing the request but no response is available yet. This prevents the client from timing out and assuming the request was lost.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "103",
+        "desc": "Early Hints (RFC 8297). Used to return some response headers before final HTTP message.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "103",
+        "desc": "Checkpoint. Used in the resumable requests proposal to resume aborted PUT or POST requests.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "200",
+        "desc": "OK (Success). Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "201",
+        "desc": "Created (Success). The request has been fulfilled resulting in the creation of a new resource.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "202",
+        "desc": "Accepted (Success). The request has been accepted for processing but the processing has not been completed. The request might or might not be eventually acted upon and may be disallowed when processing occurs.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "203",
+        "desc": "Non-Authoritative Information (since HTTP/1.1) (Success). The server is a transforming proxy (e.g. a Web accelerator) that received a 200 OK from its origin but is returning a modified version of the origin's response.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "204",
+        "desc": "No Content (Success).The server successfully processed the request and is not returning any content. Some older Broswers may not support.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "205",
+        "desc": "Reset Content  Some older Broswers may not support. . The server successfully processed the request asks that the requester reset its document view and is not returning any content.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "206",
+        "desc": "Partial Content (Success)(RFC 7233). The server is delivering only part of the resource (byte serving) due to a range header sent by the client. The range header is used by HTTP clients to enable resuming of interrupted downloads or split a download into multiple simultaneous streams.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "207",
+        "desc": "Multi-Status (Success)(WebDAV; RFC 4918). The message body that follows is by default an XML message and can contain a number of separate response codes depending on how many sub-requests were made.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "208",
+        "desc": "Already Reported (Success)(WebDAV; RFC 5842). The members of a DAV binding have already been enumerated in a preceding part of the (multistatus) response and are not being included again.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "218",
+        "desc": "This is fine (Apache Web Server). Used as a catch-all error condition for allowing response bodies to flow through Apache when ProxyErrorOverride is enabled. When ProxyErrorOverride is enabled in Apache response bodies that contain a status code of 4xx or 5xx are automatically discarded by Apache in favor of a generic response or a custom response specified by the ErrorDocument directive.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "226",
+        "desc": "IM Used (Success)(RFC 3229). The server has fulfilled a request for the resource and the response is a representation of the result of one or more instance-manipulations applied to the current instance",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "300",
+        "desc": "Multiple Choices. Indicates multiple options for the resource from which the client may choose (via agent-driven content negotiation). For example this code could be used to present multiple video format options to list files with different filename extensions or to suggest word-sense disambiguation",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "301",
+        "desc": "Moved Permanently. This and all future requests should be directed to the given URI.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "302",
+        "desc": "Found (Previously Moved temporarily). Tells the client to look at (browse to) another URL. 302 has been superseded by 303 and 307. This is an example of industry practice contradicting the standard. The HTTP/1.0 specification (RFC 1945) required the client to perform a temporary redirect (the original describing phrase was Moved Temporarily) but popular browsers implemented 302 with the functionality of a 303 See Other. Therefore HTTP/1.1 added status codes 303 and 307 to distinguish between the two behaviours. However some Web applications and frameworks use the 302 status code as if it were the 303.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "303",
+        "desc": "See Other (since HTTP/1.1). The response to the request can be found under another URI using the GET method. When received in response to a POST (or PUT/DELETE) the client should presume that the server has received the data and should issue a new GET request to the given URI.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "304",
+        "desc": "Not Modified (RFC 7232). Indicates that the resource has not been modified since the version specified by the request headers If-Modified-Since or If-None-Match. In such case there is no need to retransmit the resource since the client still has a previously-downloaded copy.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "305",
+        "desc": "Use Proxy (since HTTP/1.1)The requested resource is available only through a proxy the address for which is provided in the response. For security reasons many HTTP clients (such as Mozilla Firefox and Internet Explorer) do not obey this status code.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "306",
+        "desc": "Switch Proxy. No longer used. Originally meant Subsequent requests should use the specified proxy.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "307",
+        "desc": "Temporary Redirect (since HTTP/1.1). In this case the request should be repeated with another URI; however future requests should still use the original URI. In contrast to how 302 was historically implemented the request method is not allowed to be changed when reissuing the original request. For example a POST request should be repeated using another POST request.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "308",
+        "desc": "Permanent Redirect (RFC 7538). The request and all future requests should be repeated using another URI. 307 and 308 parallel the behaviors of 302 and 301 but do not allow the HTTP method to change. So for example submitting a form to a permanently redirected resource may continue smoothly.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "400",
+        "desc": "Bad Request. The server cannot or will not process the request due to an apparent client error (e.g. malformed request syntax size too large invalid request message framing or deceptive request routing).",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "401",
+        "desc": "Unauthorized (RFC 7235). Similar to 403 Forbidden but specifically for use when authentication is required and has failed or has not yet been provided. The response must include a WWW-Authenticate header field containing a challenge applicable to the requested resource.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "402",
+        "desc": "Payment Required. Reserved for future use. The original intention was that this code might be used as part of some form of digital cash or micropayment scheme.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "403",
+        "desc": "Forbidden. The request contained valid data and was understood by the server but the server is refusing action. This may be due to the user not having the necessary permissions for a resource or needing an account of some sort or attempting a prohibited action (e.g. creating a duplicate record where only one is allowed).",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "404",
+        "desc": "Not Found. The requested resource could not be found but may be available in the future. Subsequent requests by the client are permissible.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "405",
+        "desc": "Method Not Allowed. A request method is not supported for the requested resource; for example a GET request on a form that requires data to be presented via POST or a PUT request on a read-only resource.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "406",
+        "desc": "Not Acceptable. The requested resource is capable of generating only content not acceptable according to the Accept headers sent in the request. See Content negotiation.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "407",
+        "desc": "Proxy Authentication Required (RFC 7235). The client must first authenticate itself with the proxy.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "408",
+        "desc": "Request Timeout. The server timed out waiting for the request. According to HTTP specifications: The client did not produce a request within the time that the server was prepared to wait. The client MAY repeat the request without modifications at any later time.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "409",
+        "desc": "Conflict. Indicates that the request could not be processed because of conflict in the current state of the resource such as an edit conflict between multiple simultaneous updates.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "410",
+        "desc": "Gone. Indicates that the resource requested is no longer available and will not be available again. This should be used when a resource has been intentionally removed and the resource should be purged. Upon receiving a 410 status code the client should not request the resource in the future.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "411",
+        "desc": "Length Required. The request did not specify the length of its content which is required by the requested resource.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "412",
+        "desc": "Precondition Failed (RFC 7232). The server does not meet one of the preconditions that the requester put on the request header fields.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "413",
+        "desc": "Payload Too Large (RFC 7231). The request is larger than the server is willing or able to process. Previously called Request Entity Too Large.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "414",
+        "desc": "URI Too Long (RFC 7231). The URI provided was too long for the server to process. Often the result of too much data being encoded as a query-string of a GET request in which case it should be converted to a POST request. Called Request-URI Too Long previously.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "415",
+        "desc": "Unsupported Media Type (RFC 7231). The request entity has a media type which the server or resource does not support. For example the client uploads an image as image/svg+xml but the server requires that images use a different format.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "416",
+        "desc": "Range Not Satisfiable (RFC 7233). The client has asked for a portion of the file (byte serving) but the server cannot supply that portion. For example if the client asked for a part of the file that lies beyond the end of the file. Called Requested Range Not Satisfiable previously.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "417",
+        "desc": "Expectation Failed. The server cannot meet the requirements of the Expect request-header field.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "418",
+        "desc": "I'm a teapot (RFC 2324 RFC 7168). This code was defined in 1998 as one of the traditional IETF April Fools' jokes in RFC 2324 Hyper Text Coffee Pot Control Protocol and is not expected to be implemented by actual HTTP servers. The RFC specifies this code should be returned by teapots requested to brew coffee. This HTTP status is used as an Easter egg in some websites such as Google.com's I'm a teapot easter egg.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "419",
+        "desc": "Page Expired (Laravel Framework). Used by the Laravel Framework when a CSRF Token is missing or expired.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "420",
+        "desc": "Method Failure (Spring Framework). A deprecated response used by the Spring Framework when a method has failed.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "420",
+        "desc": "Enhance Your Calm (Twitter). Returned by version 1 of the Twitter Search and Trends API when the client is being rate limited; versions 1.1 and later use the 429 Too Many Requests response code instead.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "421",
+        "desc": "Misdirected Request (RFC 7540). The request was directed at a server that is not able to produce a response (for example because of connection reuse).",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "422",
+        "desc": "Unprocessable Entity (WebDAV; RFC 4918). The request was well-formed but was unable to be followed due to semantic errors.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "423",
+        "desc": "Locked (WebDAV; RFC 4918). The resource that is being accessed is locked.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "424",
+        "desc": "Failed Dependency (WebDAV; RFC 4918). The request failed because it depended on another request and that request failed (e.g. a PROPPATCH).",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "425",
+        "desc": "Too Early (RFC 8470). Indicates that the server is unwilling to risk processing a request that might be replayed.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "426",
+        "desc": "Upgrade Required. The client should switch to a different protocol such as TLS/1.0 given in the Upgrade header field.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "428",
+        "desc": "Precondition Required (RFC 6585). The origin server requires the request to be conditional. Intended to prevent the 'lost update' problem where a client GETs a resource's state modifies it and PUTs it back to the server when meanwhile a third party has modified the state on the server leading to a conflict.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "429",
+        "desc": "Too Many Requests (RFC 6585). The user has sent too many requests in a given amount of time. Intended for use with rate-limiting schemes.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "431",
+        "desc": "Request Header Fields Too Large (RFC 6585). The server is unwilling to process the request because either an individual header field or all the header fields collectively are too large.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "440",
+        "desc": "Login Time-out. The client's session has expired and must log in again.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "444",
+        "desc": "No Response. Used internally to instruct the nginx server to return no information to the client and close the connection immediately.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "449",
+        "desc": "Retry With. The server cannot honour the request because the user has not provided the required information.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "450",
+        "desc": "Blocked by Windows Parental Controls (Microsoft). The Microsoft extension code indicated when Windows Parental Controls are turned on and are blocking access to the requested webpage.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "451",
+        "desc": "Unavailable For Legal Reasons (RFC 7725). A server operator has received a legal demand to deny access to a resource or to a set of resources that includes the requested resource. The code 451 was chosen as a reference to the novel Fahrenheit 451 (see the Acknowledgements in the RFC).",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "451",
+        "desc": "Redirect. Used in Exchange ActiveSync when either a more efficient server is available or the server cannot access the users' mailbox. The client is expected to re-run the HTTP AutoDiscover operation to find a more appropriate server.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "460",
+        "desc": "(AWS) Client closed the connection with the load balancer before the idle timeout period elapsed. Typically when client timeout is sooner than the Elastic Load Balancer's timeout.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "463",
+        "desc": "(AWS) The load balancer received an X-Forwarded-For request header with more than 30 IP addresses.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "494",
+        "desc": "Request header too large (nginx). Client sent too large request or too long header line.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "495",
+        "desc": "Nginx SSL Certificate Error",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "496",
+        "desc": "SSL Certificate Required (Proposed).",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "497",
+        "desc": "HTTP Request Sent to HTTPS Port (Proposed).",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "498",
+        "desc": "Invalid Token (Esri). Returned by ArcGIS for Server. Code 498 indicates an expired or otherwise invalid token.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "499",
+        "desc": "Token Required (Esri). Returned by ArcGIS for Server. Code 499 indicates that a token is required but was not submitted.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "499",
+        "desc": "Client Closed Request. Used when the client has closed the request before the server could send a response.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "500",
+        "desc": "Internal Server Error. A generic error message given when an unexpected condition was encountered and no more specific message is suitable.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "501",
+        "desc": "Not Implemented. The server either does not recognize the request method or it lacks the ability to fulfil the request. Usually this implies future availability (e.g. a new feature of a web-service API).",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "502",
+        "desc": "Bad Gateway. The server was acting as a gateway or proxy and received an invalid response from the upstream server.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "503",
+        "desc": "Service Unavailable. The server cannot handle the request (because it is overloaded or down for maintenance). Generally this is a temporary state.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "504",
+        "desc": "Gateway Timeout. The server was acting as a gateway or proxy and did not receive a timely response from the upstream server.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "505",
+        "desc": "HTTP Version Not Supported. The server does not support the HTTP protocol version used in the request.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "506",
+        "desc": "Variant Also Negotiates (RFC 2295). Transparent content negotiation for the request results in a circular reference.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "507",
+        "desc": "Insufficient Storage (WebDAV; RFC 4918). The server is unable to store the representation needed to complete the request.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "508",
+        "desc": "Loop Detected (WebDAV; RFC 5842). The server detected an infinite loop while processing the request (sent instead of 208 Already Reported).",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "509",
+        "desc": "Bandwidth Limit Exceeded (Apache Web Server/cPanel). The server has exceeded the bandwidth specified by the server administrator; this is often used by shared hosting providers to limit the bandwidth of customers.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "510",
+        "desc": "Not Extended (RFC 2774). Further extensions to the request are required for the server to fulfil it.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "511",
+        "desc": "Network Authentication Required (RFC 6585). The client needs to authenticate to gain network access. Intended for use by intercepting proxies used to control access to the network (e.g. captive portals used to require agreement to Terms of Service before granting full Internet access via a Wi-Fi hotspot).",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "520",
+        "desc": "Web Server Returned an Unknown Error. The origin server returned an empty unknown or unexplained response to Cloudflare.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "521",
+        "desc": "Web Server Is Down. The origin server has refused the connection from Cloudflare.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "522",
+        "desc": "Connection Timed Out. Cloudflare could not negotiate a TCP handshake with the origin server.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "523",
+        "desc": "Origin Is Unreachable. Cloudflare could not reach the origin server; for example if the DNS records for the origin server are incorrect.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "524",
+        "desc": "A Timeout Occurred. Cloudflare was able to complete a TCP connection to the origin server but did not receive a timely HTTP response.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "525",
+        "desc": "SSL Handshake Failed. Cloudflare could not negotiate a SSL/TLS handshake with the origin server.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "526",
+        "desc": "Invalid SSL Certificate. Used by Cloudflare and Cloud Foundry's gorouter to indicate failure to validate the SSL/TLS certificate that the origin server presented.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "526",
+        "desc": "Invalid SSL Certificate. Cloudflare could not validate the SSL certificate on the origin web server.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "527",
+        "desc": "Railgun Error. Error 527 indicates an interrupted connection between Cloudflare and the origin server's Railgun server.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "529",
+        "desc": "Site is overloaded. Used by Qualys in the SSLLabs server testing API to signal that the site can't process the request.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "530",
+        "desc": "Site is frozen. Used by the Pantheon web platform to indicate a site that has been frozen due to inactivity.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "530",
+        "desc": "Error 530 is returned along with a 1xxx error.",
+        "platform": "HTTP",
+        "solution": ""
+    },
+    {
+        "code": "598",
+        "desc": "(Informal convention) Network read timeout error. Used by some HTTP proxies to signal a network read timeout behind the proxy to a client in front of the proxy.",
+        "platform": "HTTP",
+        "solution": ""
+    }
+]

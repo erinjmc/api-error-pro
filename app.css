@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+  }
+  .main { 
+    width:auto; 
+    text-align:center; 
+    padding:20px; 
+} 
+img { 
+    max-width:100%; 
+    height:auto; 
+} 
